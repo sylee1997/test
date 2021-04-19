@@ -7,3 +7,8 @@ DataSourceTest.java
 MyBatisTest.java
 *.properties
 .idea/
+.project
+.classpath
+.springBeans
+.settings/
+target/
