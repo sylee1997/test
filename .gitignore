@@ -1,0 +1,9 @@
+/.metadata/
+Servers/
+applicationContext.xml
+*.class
+*.jar
+DataSourceTest.java
+MyBatisTest.java
+*.properties
+.idea/
