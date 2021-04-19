@@ -5,6 +5,7 @@ applicationContext.xml
 *.jar
 DataSourceTest.java
 MyBatisTest.java
+LogTest.java
 *.properties
 .idea/
 .project
